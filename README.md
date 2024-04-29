@@ -2,6 +2,8 @@
 
 PDF Chatbot Pro is an application that allows you to chat with multiple PDF documents using Langchain and Google Gemini Pro. It uses large language models to process natural language queries and extract information from the provided PDF documents.
 
+## web app
+![](Screenshot.png)
 ## Table of Contents
 
 - [Setup](#setup)
